@@ -1,5 +1,5 @@
-
 """Module with simple calculator functions."""
+
 
 def add(a: int, b: int) -> int:
     """Return sum of two numbers."""
